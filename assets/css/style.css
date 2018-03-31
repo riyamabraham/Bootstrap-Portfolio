@@ -6,7 +6,6 @@ body{
 .container-fluid{
     background-color: #ffffff;    
 }
-
 .navbar-header{
     color: #ffffff;
     background-color:  #4aaaa5;
@@ -24,44 +23,28 @@ h2{
     margin: 10px;
     width: 70%;
    padding-bottom: 5px;
+   margin-bottom: 10px;
 }
 .col-sm-3{
     background-color: #ffffff;
     margin: 10px;
     
 }
-
 .navbar-fixed-bottom{
     background-color:#666666;
     color:white;
     text-align: center;
     border-top: 5px solid #4aaaa5; 
 }
-span{
-    color:white;
-    text-align: center;
-}
-
-.image{
-    
-    height: 130px;
-    width: 160px;
-    float: left;
-    padding-bottom:5px;
-}
-
-.center {
-    position: absolute;
-    
-    top: 70%;
-    width: 160px;
-    height: 25px;
-    text-align: center;
-    font-size: 15px;
-    color: white;
-    background-color: rgb(46, 189, 189);
-}
 .btn-default{
     background-color: #4aaaa5;
     color: #ffffff;
 }
+.caption{
+    background-color: #4aaaa5;   
+}
+p{
+    color: #ffffff;
+}
+
+
